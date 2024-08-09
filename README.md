@@ -7,7 +7,7 @@ I have reformatted the data such that the data file ['ex3_1.dat'] now contains t
 
 **Resources**: 
 - All the analyses are collected in this jupyter-notebook, [TimeSeries_Analysis_CO2.ipynb](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/TimeSeries_Analysis_CO2.ipynb).
-- Find the datafile here, ['ex3_1.dat'](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/ex3_1.dat)
+- Find the time series datafile here, [ex3_1.dat](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/ex3_1.dat)
 
 **Analysis and Results**:
 - Loading the datafile in pandas data frame with proper formatting (data formatting)
