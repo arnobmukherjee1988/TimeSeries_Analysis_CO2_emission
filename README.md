@@ -4,6 +4,8 @@
 Time Series Analysis of averaged monthly measurements CO<sub>2</sub> emission data from Mauna Loa observatory in Hawaii.
 This study is an extension of the 3rd assignment of the course, 'Physics and Finance' at Uppsala University.
 I have reformatted the data such that the data file ['ex3_1.dat'] now contains three columns: the date in decimal form, the averaged monthly CO<sub>2</sub> concentration expressed in μmole/mole of dry air, and the month as a number (Jan = 1,..., Dec = 12).
+
+**Notebook**: 
 All the analysis is collected in one jupyter-notebook, [TimeSeries_Analysis_CO2.ipynb](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/TimeSeries_Analysis_CO2.ipynb).
 
 **Analysis and Results**:
