@@ -5,8 +5,9 @@ Time Series Analysis of averaged monthly measurements CO<sub>2</sub> emission da
 This study is an extension of the 3rd assignment of the course, 'Physics and Finance' at Uppsala University.
 I have reformatted the data such that the data file ['ex3_1.dat'] now contains three columns: the date in decimal form, the averaged monthly CO<sub>2</sub> concentration expressed in μmole/mole of dry air, and the month as a number (Jan = 1,..., Dec = 12).
 
-**Notebook**: 
-All the analyses are collected in this jupyter-notebook, [TimeSeries_Analysis_CO2.ipynb](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/TimeSeries_Analysis_CO2.ipynb).
+**Resources**: 
+- All the analyses are collected in this jupyter-notebook, [TimeSeries_Analysis_CO2.ipynb](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/TimeSeries_Analysis_CO2.ipynb).
+- Find the datafile here, ['ex3_1.dat'](https://github.com/arnobmukherjee1988/TimeSeries_Analysis_CO2_emission/blob/main/ex3_1.dat)
 
 **Analysis and Results**:
 - Loading the datafile in pandas data frame with proper formatting (data formatting)
